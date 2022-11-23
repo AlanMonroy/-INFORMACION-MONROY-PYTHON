@@ -1,0 +1,8 @@
+////////str////////
+contenido.count("Hola")
+contenido.lower()
+contenido.upper()
+contenido.startswith("Hola")
+contenido.endswith("Hola")
+contenido.replace(" ","-")   #remplazar caracteres
+contenido.split()            #Regresa una lista / por defecto use los espacios en blanco como separador

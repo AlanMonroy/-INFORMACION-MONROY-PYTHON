@@ -1,0 +1,25 @@
+git init                                       Para iniciar git
+git status -s                                  para checar status de los archivos
+git add "Nombre de archivo"                    para agregar archivo
+git add .                                      agregar todos los archivos al repositorio
+git commit -m "Descripcion de la copia"        para ejecutar un guardado
+git commit -am "Descripcion de la copia"       para agregar y guardar al mismo tiempo
+git log --online                               copias guardadas
+git reset --hard "codigo de la copia"          resetea el archivo a una copia
+git push origin master				copiar al github
+git config --get remote.origin.url             conseguir la url del repositorio
+git tag 12-12-21V1 -m "Version 1"              guarda una tag
+git push --tags                                sube las tags
+git clone                                      clonar proyecto por si lo eliminamos  
+
+
+git init 
+git add .
+git commit -m "NombreTodoJunto"
+copiar el enlace del repositorio en hub y dar enter
+
+git push
+
+
+#Si sale error de remote
+cambiar del enlace el add a set-url 

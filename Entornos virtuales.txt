@@ -1,0 +1,6 @@
+1. pip install virtualenv
+2. cd/ruta de la carpeta en la que estara el proyect
+3. A continuacion comando: virtualenv NOMBRE_DEL_PROYECTO
+4. Activar el entorno virtual con el comando: .\NOMBRE_DEL_PROYECTO\Scripts\activate
+
+*nota: pip freeze para checar bilbiotecas

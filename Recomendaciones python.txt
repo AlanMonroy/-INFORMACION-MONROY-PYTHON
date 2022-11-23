@@ -1,0 +1,7 @@
+pip install pillow
+pip install pyodbc
+type(x)           para conocer el tipo de dato
+
+Para usar base de datos en acces hay que instalar  el 
+Componente redistribuible del motor de base de datos de Microsoft Access 2010
+en el link "https://www.microsoft.com/es-mx/download/details.aspx?id=13255" DE 32 BITS, NO DE 64 BITS
