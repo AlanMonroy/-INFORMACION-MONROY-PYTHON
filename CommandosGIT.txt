@@ -23,3 +23,7 @@ git push
 
 #Si sale error de remote
 cambiar del enlace el add a set-url 
+
+Cambiar usuario:
+	git config --global user.name	"Alan Monroy"
+	git config --global user.email alanmonroy@gmail.com

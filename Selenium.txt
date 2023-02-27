@@ -1,15 +1,11 @@
 pip install selenium
-Extension en VSC:
-	-katalium
-	-WebDriverIO snippets
-	-webtest
 
 Checar driver de chrome, en chrome ir a personalización (los tres puntos en la parte superior derecha),
 <Configuración>, <Información de Chrome>, verificar la versiona; ejemplo: Versión 107.0.5304.88 (Build oficial) (64 bits)
 
 Descargar drivers para usar selenium y extraerlos dentro de una carpeta que creamos llamada Drivers dentro de Disco Local:
 	https://github.com/mozilla/geckodriver/releases/
-	https://chromedriver.chromium.org/downloads		# Aqui se checa la vesion que se hizo en el paso anterior.
+	https://chromedriver.chromium.org/downloads		# Aqui se checa la version que se hizo en el paso anterior.
 
 Plugings/herramientas que ayudan:
 	Extension chrome CSS and XPath checker: https://chrome.google.com/webstore/detail/css-and-xpath-checker/aoinfihhckpkkcpholfhmkeplbhddipe

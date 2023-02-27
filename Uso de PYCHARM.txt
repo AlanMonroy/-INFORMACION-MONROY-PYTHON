@@ -1,0 +1,6 @@
+Habilitar la ejecucion de script (problema desde el momento de activar entorno virtual)
+Pasos:
+	1-Abrir Power Shell como administrador
+	2-Usar comando Get-ExecutionPolicy -list para validar los permisos
+	3-Usar comando Set-ExecutionPolicy RemoteSigned -Force
+	4-Volver a usar el comando Get-ExecutionPolicy -list para comprobar el cambio
